@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f44bc437ebdb4d04fab2e7f0e5eb4b49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - The Bomb Sound
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 734f6f24a278a6a42bf23ab63c0d3934, type: 3}
+  - {fileID: 12800000, guid: 5285910224feea74285d01f5903ae031, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
